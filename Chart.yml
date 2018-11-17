@@ -1,0 +1,6 @@
+name: Exercise for Argus Sec
+version: 1.0.0
+description: publish hello world java app container as a service using k8s/helm
+maintainers:
+  - name: Shy Tamir
+  - email: shytamir@gmail.com
