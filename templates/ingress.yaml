@@ -1,0 +1,10 @@
+apiVersion: extensions/vibeta1
+kind: Ingress
+metadata:
+  name: argussecex-ingress
+  annotations:
+    http.port: "80"
+spec:
+  backend:
+    serviceName: argussecex-service
+	servicePort: 8080
