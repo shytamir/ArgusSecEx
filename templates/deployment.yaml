@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: argussecex
-        image: argussecexauto:latest
+        image: shytamir/argussecexauto:latest
         ports:
         - containerPort: 8080
