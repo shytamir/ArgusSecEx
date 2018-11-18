@@ -7,4 +7,4 @@ metadata:
 spec:
   backend:
     serviceName: argussecex-service
-	servicePort: 8080
+    servicePort: 8080
