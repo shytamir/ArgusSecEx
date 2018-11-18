@@ -11,6 +11,8 @@ The Sample.WAR was provided by ArgusSecEx and its license information is include
 
 My work includes the Dockerfile, as well as any yaml files found within this repository.
 
+Incidentally, I've linked this repo to Docker Hub and configured an automated build for the docker image. You can easily fetch the latest version of this image from dockerhub at "shytamir/argussecexauto".
+
 Feel free to chat me up about this. It's simple and easy.
 
 ## Instructions
